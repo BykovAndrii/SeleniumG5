@@ -2,9 +2,9 @@
 {
     public class Class1
     {
-        public int a = 5;
-        public int b = 4;
-        public int c = 0;
-        public int d = 1;
+        public int firstTest = 5;
+        public int secondTest = 4;
+        public int thirdTest = 0;
+        public int fourthTest = 1;
     }
 }
